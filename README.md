@@ -1,2 +1,2 @@
 # Computer-Vision-TensorFlow
-Computer Vision in TensorFlow
+Computer Vision in TensorFlow Complete Guide
