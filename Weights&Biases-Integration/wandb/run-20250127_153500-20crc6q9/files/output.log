@@ -1,0 +1,13 @@
+[34m[1mwandb[0m: Downloading large artifact NewDataset:v0, 1419.75MB. 27558 files...
+[34m[1mwandb[0m:   27558 of 27558 files downloaded.  
+Done. 0:0:57.7
+[34m[1mwandb[0m: Downloading large artifact NewDataset:v0, 1419.75MB. 27558 files...
+[34m[1mwandb[0m:   27558 of 27558 files downloaded.  
+Done. 0:1:0.2
+Traceback (most recent call last):
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_74788/2472436155.py", line 7, in dataPreprocessor
+    preProcessedData = wandb.Artifact(name="Preprocessed Dataset",
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/wandb/sdk/artifacts/artifact.py", line 119, in __init__
+    raise ValueError(
+ValueError: Artifact name may only contain alphanumeric characters, dashes, underscores, and dots. Invalid name: Preprocessed Dataset

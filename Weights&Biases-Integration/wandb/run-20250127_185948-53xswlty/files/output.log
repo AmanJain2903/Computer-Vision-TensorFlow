@@ -1,0 +1,30 @@
+[34m[1mwandb[0m: Downloading large artifact AugmentedDataset:v0, 459.38MB. 1 files...
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+Done. 0:0:8.8
+[34m[1mwandb[0m: Downloading large artifact ValDataset:v0, 57.42MB. 1 files...
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+Done. 0:0:1.9
+[34m[1mwandb[0m: Downloading large artifact UntrainedModel:v0, 139.30MB. 1 files...
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+Done. 0:0:0.2
+Epoch 1/10
+2025-01-27 19:00:04.100325: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:117] Plugin optimizer for device_type GPU is enabled.
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m7s[0m 190ms/step - auc: 0.6256 - binary_accuracy: 0.5901 - false_negatives: 72.9231 - false_positives: 104.4231 - loss: 0.7978 - precision: 0.5669 - recall: 0.6550 - true_negatives: 118.7308 - true_positives: 134.6923 - val_auc: 0.6360 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 1.1483 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 2/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 149ms/step - auc: 0.6859 - binary_accuracy: 0.6342 - false_negatives: 74.8462 - false_positives: 84.1923 - loss: 0.6360 - precision: 0.6087 - recall: 0.6419 - true_negatives: 141.4615 - true_positives: 130.2692 - val_auc: 0.6265 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 0.9959 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 3/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 152ms/step - auc: 0.7132 - binary_accuracy: 0.6468 - false_negatives: 69.9231 - false_positives: 79.9231 - loss: 0.6227 - precision: 0.6362 - recall: 0.6587 - true_negatives: 140.3462 - true_positives: 140.5769 - val_auc: 0.6302 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 0.8191 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 4/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 157ms/step - auc: 0.7281 - binary_accuracy: 0.6603 - false_negatives: 65.7308 - false_positives: 77.2308 - loss: 0.6130 - precision: 0.6214 - recall: 0.6855 - true_negatives: 150.5385 - true_positives: 137.2692 - val_auc: 0.5310 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 1.0635 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 5/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 152ms/step - auc: 0.7956 - binary_accuracy: 0.7371 - false_negatives: 54.3462 - false_positives: 63.5385 - loss: 0.5576 - precision: 0.7130 - recall: 0.7498 - true_negatives: 161.5385 - true_positives: 151.3462 - val_auc: 0.5291 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 1.0748 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 6/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 152ms/step - auc: 0.8296 - binary_accuracy: 0.7482 - false_negatives: 46.7692 - false_positives: 56.8462 - loss: 0.5229 - precision: 0.7429 - recall: 0.7652 - true_negatives: 160.8462 - true_positives: 166.3077 - val_auc: 0.5539 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 1.5068 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 7/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 146ms/step - auc: 0.8952 - binary_accuracy: 0.7920 - false_negatives: 42.2692 - false_positives: 45.9615 - loss: 0.4433 - precision: 0.7905 - recall: 0.7934 - true_negatives: 175.1154 - true_positives: 167.4231 - val_auc: 0.4855 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 1.8495 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 8/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 153ms/step - auc: 0.9217 - binary_accuracy: 0.8390 - false_negatives: 33.0769 - false_positives: 35.3077 - loss: 0.3993 - precision: 0.8329 - recall: 0.8415 - true_negatives: 185.9615 - true_positives: 176.4231 - val_auc: 0.5254 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 2.2722 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 9/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 153ms/step - auc: 0.9766 - binary_accuracy: 0.9341 - false_negatives: 15.2308 - false_positives: 17.5769 - loss: 0.2819 - precision: 0.9231 - recall: 0.9399 - true_negatives: 206.6154 - true_positives: 191.3462 - val_auc: 0.5674 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 2.5593 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00
+Epoch 10/10
+[1m25/25[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 149ms/step - auc: 0.9809 - binary_accuracy: 0.9318 - false_negatives: 14.1923 - false_positives: 15.0385 - loss: 0.2439 - precision: 0.9260 - recall: 0.9324 - true_negatives: 210.5000 - true_positives: 191.0385 - val_auc: 0.5099 - val_binary_accuracy: 0.4100 - val_false_negatives: 59.0000 - val_false_positives: 0.0000e+00 - val_loss: 3.1142 - val_precision: 0.0000e+00 - val_recall: 0.0000e+00 - val_true_negatives: 41.0000 - val_true_positives: 0.0000e+00

@@ -1,0 +1,16 @@
+{"time":"2025-01-27T13:26:06.451391-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_132606-vq8ow1hn/logs/debug-core.log"}
+{"time":"2025-01-27T13:26:06.562204-08:00","level":"INFO","msg":"created new stream","id":"vq8ow1hn"}
+{"time":"2025-01-27T13:26:06.562265-08:00","level":"INFO","msg":"stream: started","id":"vq8ow1hn"}
+{"time":"2025-01-27T13:26:06.562266-08:00","level":"INFO","msg":"handler: started","stream_id":"vq8ow1hn"}
+{"time":"2025-01-27T13:26:06.562282-08:00","level":"INFO","msg":"sender: started","stream_id":"vq8ow1hn"}
+{"time":"2025-01-27T13:26:06.562297-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"vq8ow1hn"}
+{"time":"2025-01-27T13:26:06.751683-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T13:31:55.334082-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T13:31:55.334658-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T13:31:56.339625-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_vq8ow1hn_model","runtime_seconds":1.025593875,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.572332084,"progress":"6.3MB/25.9MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T13:31:58.623388-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T13:31:59.806218-08:00","level":"INFO","msg":"stream: closing","id":"vq8ow1hn"}
+{"time":"2025-01-27T13:31:59.806333-08:00","level":"INFO","msg":"handler: closed","stream_id":"vq8ow1hn"}
+{"time":"2025-01-27T13:31:59.80636-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vq8ow1hn"}
+{"time":"2025-01-27T13:31:59.806438-08:00","level":"INFO","msg":"sender: closed","stream_id":"vq8ow1hn"}
+{"time":"2025-01-27T13:31:59.806608-08:00","level":"INFO","msg":"stream: closed","id":"vq8ow1hn"}

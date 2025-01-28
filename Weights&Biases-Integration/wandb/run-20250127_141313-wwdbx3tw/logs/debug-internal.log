@@ -1,0 +1,16 @@
+{"time":"2025-01-27T14:13:13.802873-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_141313-wwdbx3tw/logs/debug-core.log"}
+{"time":"2025-01-27T14:13:13.923383-08:00","level":"INFO","msg":"created new stream","id":"wwdbx3tw"}
+{"time":"2025-01-27T14:13:13.923438-08:00","level":"INFO","msg":"stream: started","id":"wwdbx3tw"}
+{"time":"2025-01-27T14:13:13.92345-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"wwdbx3tw"}
+{"time":"2025-01-27T14:13:13.92345-08:00","level":"INFO","msg":"handler: started","stream_id":"wwdbx3tw"}
+{"time":"2025-01-27T14:13:13.923463-08:00","level":"INFO","msg":"sender: started","stream_id":"wwdbx3tw"}
+{"time":"2025-01-27T14:13:14.091024-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T14:18:34.722998-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T14:18:34.723837-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T14:18:35.735375-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_wwdbx3tw_model","runtime_seconds":1.034025834,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.560102042,"progress":"3.3MB/3.3MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T14:18:36.656079-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T14:18:37.860632-08:00","level":"INFO","msg":"stream: closing","id":"wwdbx3tw"}
+{"time":"2025-01-27T14:18:37.860877-08:00","level":"INFO","msg":"handler: closed","stream_id":"wwdbx3tw"}
+{"time":"2025-01-27T14:18:37.860991-08:00","level":"INFO","msg":"sender: closed","stream_id":"wwdbx3tw"}
+{"time":"2025-01-27T14:18:37.860978-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wwdbx3tw"}
+{"time":"2025-01-27T14:18:37.861298-08:00","level":"INFO","msg":"stream: closed","id":"wwdbx3tw"}

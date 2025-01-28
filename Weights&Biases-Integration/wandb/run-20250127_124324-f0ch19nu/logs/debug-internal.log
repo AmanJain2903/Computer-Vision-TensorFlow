@@ -1,0 +1,16 @@
+{"time":"2025-01-27T12:43:24.681641-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_124324-f0ch19nu/logs/debug-core.log"}
+{"time":"2025-01-27T12:43:24.7962-08:00","level":"INFO","msg":"created new stream","id":"f0ch19nu"}
+{"time":"2025-01-27T12:43:24.796238-08:00","level":"INFO","msg":"stream: started","id":"f0ch19nu"}
+{"time":"2025-01-27T12:43:24.796253-08:00","level":"INFO","msg":"handler: started","stream_id":"f0ch19nu"}
+{"time":"2025-01-27T12:43:24.796271-08:00","level":"INFO","msg":"sender: started","stream_id":"f0ch19nu"}
+{"time":"2025-01-27T12:43:24.796256-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"f0ch19nu"}
+{"time":"2025-01-27T12:43:24.958465-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:49:00.26736-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T12:49:00.268759-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T12:49:01.279287-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_f0ch19nu_model","runtime_seconds":1.030348459,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.551048209,"progress":"6.9MB/13.0MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T12:49:02.667742-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T12:49:03.864773-08:00","level":"INFO","msg":"stream: closing","id":"f0ch19nu"}
+{"time":"2025-01-27T12:49:03.864885-08:00","level":"INFO","msg":"handler: closed","stream_id":"f0ch19nu"}
+{"time":"2025-01-27T12:49:03.864921-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"f0ch19nu"}
+{"time":"2025-01-27T12:49:03.86496-08:00","level":"INFO","msg":"sender: closed","stream_id":"f0ch19nu"}
+{"time":"2025-01-27T12:49:03.865205-08:00","level":"INFO","msg":"stream: closed","id":"f0ch19nu"}

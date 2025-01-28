@@ -1,0 +1,126 @@
+2025-01-27 15:47:41,137 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_154741-g2ghych1/logs/debug.log
+2025-01-27 15:47:41,137 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_154741-g2ghych1/logs/debug-internal.log
+2025-01-27 15:47:41,137 INFO    MainThread:74788 [wandb_init.py:init():743] calling init triggers
+2025-01-27 15:47:41,137 INFO    MainThread:74788 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-27 15:47:41,138 INFO    MainThread:74788 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-27 15:48:42,722 INFO    MainThread:74788 [wandb_run.py:_finish():2134] finishing run amanjn2003-santa-clara-university/Computer-Vision-TensorFlow-Weights&Biases-Integration/20crc6q9
+2025-01-27 15:48:42,723 INFO    MainThread:74788 [jupyter.py:save_history():458] not saving jupyter history
+2025-01-27 15:48:42,723 INFO    MainThread:74788 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-27 15:48:42,723 INFO    MainThread:74788 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-27 15:48:42,723 INFO    MainThread:74788 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 1
+2025-01-27 15:48:42,723 INFO    MainThread:74788 [wandb_run.py:_restore():2356] restore
+2025-01-27 15:48:42,723 INFO    MainThread:74788 [wandb_run.py:_restore():2362] restore done
+2025-01-27 15:48:44,438 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-27 15:48:44,438 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-27 15:48:44,438 INFO    MainThread:74788 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-27 15:49:07,586 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_154907-zomn0eaa/logs/debug.log
+2025-01-27 15:49:07,586 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_154907-zomn0eaa/logs/debug-internal.log
+2025-01-27 15:49:07,586 INFO    MainThread:74788 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x3b75c81d0>
+2025-01-27 15:49:07,586 INFO    MainThread:74788 [wandb_init.py:init():743] calling init triggers
+2025-01-27 15:49:07,586 INFO    MainThread:74788 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-27 15:49:07,586 INFO    MainThread:74788 [wandb_init.py:init():776] starting backend
+2025-01-27 15:49:07,586 INFO    MainThread:74788 [wandb_init.py:init():780] sending inform_init request
+2025-01-27 15:49:07,587 INFO    MainThread:74788 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-27 15:49:07,588 INFO    MainThread:74788 [wandb_init.py:init():795] backend started and connected
+2025-01-27 15:49:07,591 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-27 15:49:07,591 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1223] Unable to probe notebook: Expecting value: line 1 column 1 (char 0)
+2025-01-27 15:49:07,592 INFO    MainThread:74788 [wandb_init.py:init():888] updated telemetry
+2025-01-27 15:49:07,665 INFO    MainThread:74788 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-27 15:49:07,892 INFO    MainThread:74788 [wandb_init.py:init():967] starting run threads in backend
+2025-01-27 15:49:08,022 INFO    MainThread:74788 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-27 15:49:08,023 INFO    MainThread:74788 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-27 15:49:08,023 INFO    MainThread:74788 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-27 15:49:08,023 INFO    MainThread:74788 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-27 15:49:08,023 INFO    MainThread:74788 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-27 15:50:06,145 INFO    MainThread:74788 [wandb_run.py:_finish():2134] finishing run amanjn2003-santa-clara-university/Malaria-Detection-Dataset-Versioning/zomn0eaa
+2025-01-27 15:50:06,146 INFO    MainThread:74788 [jupyter.py:save_history():458] not saving jupyter history
+2025-01-27 15:50:06,146 INFO    MainThread:74788 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-27 15:50:06,146 INFO    MainThread:74788 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-27 15:50:06,146 INFO    MainThread:74788 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 1
+2025-01-27 15:50:06,146 INFO    MainThread:74788 [wandb_run.py:_restore():2356] restore
+2025-01-27 15:50:06,146 INFO    MainThread:74788 [wandb_run.py:_restore():2362] restore done
+2025-01-27 15:50:07,913 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-27 15:50:07,913 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-27 15:50:07,914 INFO    MainThread:74788 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-27 15:51:23,550 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_155123-uu6kafxe/logs/debug.log
+2025-01-27 15:51:23,552 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_155123-uu6kafxe/logs/debug-internal.log
+2025-01-27 15:51:23,555 INFO    MainThread:74788 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x3b9797110>
+2025-01-27 15:51:23,557 INFO    MainThread:74788 [wandb_init.py:init():743] calling init triggers
+2025-01-27 15:51:23,559 INFO    MainThread:74788 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-27 15:51:23,559 INFO    MainThread:74788 [wandb_init.py:init():776] starting backend
+2025-01-27 15:51:23,560 INFO    MainThread:74788 [wandb_init.py:init():780] sending inform_init request
+2025-01-27 15:51:23,575 INFO    MainThread:74788 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-27 15:51:23,579 INFO    MainThread:74788 [wandb_init.py:init():795] backend started and connected
+2025-01-27 15:51:23,611 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-27 15:51:23,612 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1223] Unable to probe notebook: Expecting value: line 1 column 1 (char 0)
+2025-01-27 15:51:23,612 INFO    MainThread:74788 [wandb_init.py:init():888] updated telemetry
+2025-01-27 15:51:23,659 INFO    MainThread:74788 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-27 15:51:23,919 INFO    MainThread:74788 [wandb_init.py:init():967] starting run threads in backend
+2025-01-27 15:51:24,071 INFO    MainThread:74788 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-27 15:51:24,072 INFO    MainThread:74788 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-27 15:51:24,072 INFO    MainThread:74788 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-27 15:51:24,072 INFO    MainThread:74788 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-27 15:51:24,074 INFO    MainThread:74788 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-27 15:52:22,508 INFO    MainThread:74788 [wandb_run.py:_finish():2134] finishing run amanjn2003-santa-clara-university/Malaria-Detection-Dataset-Versioning/uu6kafxe
+2025-01-27 15:52:22,509 INFO    MainThread:74788 [jupyter.py:save_history():458] not saving jupyter history
+2025-01-27 15:52:22,509 INFO    MainThread:74788 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-27 15:52:22,509 INFO    MainThread:74788 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-27 15:52:22,509 INFO    MainThread:74788 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 1
+2025-01-27 15:52:22,509 INFO    MainThread:74788 [wandb_run.py:_restore():2356] restore
+2025-01-27 15:52:22,509 INFO    MainThread:74788 [wandb_run.py:_restore():2362] restore done
+2025-01-27 15:52:24,201 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-27 15:52:24,202 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-27 15:52:24,202 INFO    MainThread:74788 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-27 15:54:09,297 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_155409-ajku8pyk/logs/debug.log
+2025-01-27 15:54:09,298 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_155409-ajku8pyk/logs/debug-internal.log
+2025-01-27 15:54:09,298 INFO    MainThread:74788 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x3ca195ed0>
+2025-01-27 15:54:09,298 INFO    MainThread:74788 [wandb_init.py:init():743] calling init triggers
+2025-01-27 15:54:09,298 INFO    MainThread:74788 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-27 15:54:09,298 INFO    MainThread:74788 [wandb_init.py:init():776] starting backend
+2025-01-27 15:54:09,298 INFO    MainThread:74788 [wandb_init.py:init():780] sending inform_init request
+2025-01-27 15:54:09,299 INFO    MainThread:74788 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-27 15:54:09,300 INFO    MainThread:74788 [wandb_init.py:init():795] backend started and connected
+2025-01-27 15:54:09,312 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-27 15:54:09,312 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1223] Unable to probe notebook: Expecting value: line 1 column 1 (char 0)
+2025-01-27 15:54:09,312 INFO    MainThread:74788 [wandb_init.py:init():888] updated telemetry
+2025-01-27 15:54:09,351 INFO    MainThread:74788 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-27 15:54:09,592 INFO    MainThread:74788 [wandb_init.py:init():967] starting run threads in backend
+2025-01-27 15:54:09,736 INFO    MainThread:74788 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-27 15:54:09,736 INFO    MainThread:74788 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-27 15:54:09,736 INFO    MainThread:74788 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-27 15:54:09,737 INFO    MainThread:74788 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-27 15:54:09,738 INFO    MainThread:74788 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-27 15:57:08,513 INFO    MainThread:74788 [wandb_run.py:_finish():2134] finishing run amanjn2003-santa-clara-university/Malaria-Detection-Dataset-Versioning/ajku8pyk
+2025-01-27 15:57:08,528 INFO    MainThread:74788 [jupyter.py:save_history():458] not saving jupyter history
+2025-01-27 15:57:08,529 INFO    MainThread:74788 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-27 15:57:08,531 INFO    MainThread:74788 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-27 15:57:08,532 INFO    MainThread:74788 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 1
+2025-01-27 15:57:08,533 INFO    MainThread:74788 [wandb_run.py:_restore():2356] restore
+2025-01-27 15:57:08,534 INFO    MainThread:74788 [wandb_run.py:_restore():2362] restore done
+2025-01-27 15:57:10,229 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-27 15:57:10,230 INFO    MainThread:74788 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-27 15:57:10,231 INFO    MainThread:74788 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-27 16:04:46,203 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_160446-bcc9a15k/logs/debug.log
+2025-01-27 16:04:46,204 INFO    MainThread:74788 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_160446-bcc9a15k/logs/debug-internal.log
+2025-01-27 16:04:46,204 INFO    MainThread:74788 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x3bda17390>
+2025-01-27 16:04:46,204 INFO    MainThread:74788 [wandb_init.py:init():743] calling init triggers
+2025-01-27 16:04:46,204 INFO    MainThread:74788 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-27 16:04:46,204 INFO    MainThread:74788 [wandb_init.py:init():776] starting backend
+2025-01-27 16:04:46,204 INFO    MainThread:74788 [wandb_init.py:init():780] sending inform_init request
+2025-01-27 16:04:46,208 INFO    MainThread:74788 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-27 16:04:46,209 INFO    MainThread:74788 [wandb_init.py:init():795] backend started and connected
+2025-01-27 16:04:46,226 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-27 16:04:46,227 INFO    MainThread:74788 [wandb_run.py:_label_probe_notebook():1223] Unable to probe notebook: Expecting value: line 1 column 1 (char 0)
+2025-01-27 16:04:46,227 INFO    MainThread:74788 [wandb_init.py:init():888] updated telemetry
+2025-01-27 16:04:46,289 INFO    MainThread:74788 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-27 16:04:46,610 INFO    MainThread:74788 [wandb_init.py:init():967] starting run threads in backend
+2025-01-27 16:04:46,776 INFO    MainThread:74788 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-27 16:04:46,776 INFO    MainThread:74788 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-27 16:04:46,776 INFO    MainThread:74788 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-27 16:04:46,776 INFO    MainThread:74788 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-27 16:04:46,777 INFO    MainThread:74788 [wandb_init.py:init():1009] run started, returning control to user process

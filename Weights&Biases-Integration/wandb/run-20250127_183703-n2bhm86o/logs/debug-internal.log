@@ -1,0 +1,16 @@
+{"time":"2025-01-27T18:37:03.914145-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_183703-n2bhm86o/logs/debug-core.log"}
+{"time":"2025-01-27T18:37:04.022134-08:00","level":"INFO","msg":"created new stream","id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:04.02217-08:00","level":"INFO","msg":"stream: started","id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:04.022183-08:00","level":"INFO","msg":"sender: started","stream_id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:04.022185-08:00","level":"INFO","msg":"handler: started","stream_id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:04.022196-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:04.228925-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T18:37:04.85346-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T18:37:04.853821-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T18:37:05.860093-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact UntrainedModel","runtime_seconds":1.008024708,"subtasks":[{"desc":"LeNet.keras","runtime_seconds":0.627136958,"progress":"5.3MB/139.3MB"}]},{"desc":"uploading Models/LeNet.keras","runtime_seconds":1.005549084,"progress":"10.4MB/139.3MB"}],"total_operations":2}}
+{"time":"2025-01-27T18:37:27.421196-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T18:37:28.632846-08:00","level":"INFO","msg":"stream: closing","id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:28.632943-08:00","level":"INFO","msg":"handler: closed","stream_id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:28.632973-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:28.633034-08:00","level":"INFO","msg":"sender: closed","stream_id":"n2bhm86o"}
+{"time":"2025-01-27T18:37:28.633842-08:00","level":"INFO","msg":"stream: closed","id":"n2bhm86o"}

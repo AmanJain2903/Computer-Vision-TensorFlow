@@ -1,0 +1,16 @@
+{"time":"2025-01-27T13:06:04.577611-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_130604-y0fnomkg/logs/debug-core.log"}
+{"time":"2025-01-27T13:06:04.694258-08:00","level":"INFO","msg":"created new stream","id":"y0fnomkg"}
+{"time":"2025-01-27T13:06:04.694298-08:00","level":"INFO","msg":"stream: started","id":"y0fnomkg"}
+{"time":"2025-01-27T13:06:04.694309-08:00","level":"INFO","msg":"handler: started","stream_id":"y0fnomkg"}
+{"time":"2025-01-27T13:06:04.694315-08:00","level":"INFO","msg":"sender: started","stream_id":"y0fnomkg"}
+{"time":"2025-01-27T13:06:04.694334-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"y0fnomkg"}
+{"time":"2025-01-27T13:06:04.853689-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T13:11:34.29173-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T13:11:34.29254-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T13:11:35.295532-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_y0fnomkg_model","runtime_seconds":1.027350417,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.514680292,"progress":"2.2MB/6.5MB"}]},{"desc":"uploading history steps 9-9, summary, console lines 19-19","runtime_seconds":0.103266583}],"total_operations":2}}
+{"time":"2025-01-27T13:11:37.169835-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T13:11:38.332422-08:00","level":"INFO","msg":"stream: closing","id":"y0fnomkg"}
+{"time":"2025-01-27T13:11:38.33258-08:00","level":"INFO","msg":"handler: closed","stream_id":"y0fnomkg"}
+{"time":"2025-01-27T13:11:38.332615-08:00","level":"INFO","msg":"sender: closed","stream_id":"y0fnomkg"}
+{"time":"2025-01-27T13:11:38.332598-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"y0fnomkg"}
+{"time":"2025-01-27T13:11:38.332817-08:00","level":"INFO","msg":"stream: closed","id":"y0fnomkg"}

@@ -1,0 +1,22 @@
+[34m[1mwandb[0m: Downloading large artifact PreprocessedDataset:v0, 574.23MB. 1 files...
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+Traceback (most recent call last):
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_847/1469648784.py", line 5, in dataSplitter
+    artifact_dir = artifact.download()
+                   ^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/wandb/sdk/artifacts/_validators.py", line 98, in wrapper
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/wandb/sdk/artifacts/artifact.py", line 1669, in download
+    return self._download(
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/wandb/sdk/artifacts/artifact.py", line 1822, in _download
+    for future in concurrent.futures.as_completed(active_futures):
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/concurrent/futures/_base.py", line 243, in as_completed
+    waiter.event.wait(wait_timeout)
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/threading.py", line 629, in wait
+    signaled = self._cond.wait(timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/threading.py", line 327, in wait
+    waiter.acquire()
+KeyboardInterrupt

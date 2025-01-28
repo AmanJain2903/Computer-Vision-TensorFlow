@@ -1,0 +1,35 @@
+2025-01-27 14:35:42,345 INFO    Thread-32 (_run_job):72293 [wandb_setup.py:_flush():68] Current SDK version is 0.19.4
+2025-01-27 14:35:42,345 INFO    Thread-32 (_run_job):72293 [wandb_setup.py:_flush():68] Configure stats pid to 72293
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_setup.py:_flush():68] Loading settings from /Users/aman/.config/wandb/settings
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_setup.py:_flush():68] Loading settings from /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/settings
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_143542-t7pi7j38/logs/debug.log
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_143542-t7pi7j38/logs/debug-internal.log
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x500ac4710>
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():743] calling init triggers
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():748] wandb.init called with sweep_config: {'DROPOUT_RATE': 0.269956800798061, 'LEARNING_RATE': 0.07212367572614767, 'N_DENSE_1': 64, 'N_DENSE_2': 32, 'REGULARIZATION_RATE': 0.08805241100344176}
+config: {'LEARNING_RATE': 0.001, 'N_EPOCHS': 10, 'BATCH_SIZE': 128, 'DROPOUT_RATE': 0.0, 'IM_SIZE': 224, 'REGULARIZATION_RATE': 0.0, 'N_FILTERS': 6, 'KERNEL_SIZE': 3, 'N_STRIDES': 1, 'POOL_SIZE': 2, 'N_DENSE_1': 128, 'N_DENSE_2': 32}
+2025-01-27 14:35:42,346 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():776] starting backend
+2025-01-27 14:35:42,603 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():780] sending inform_init request
+2025-01-27 14:35:42,607 INFO    Thread-32 (_run_job):72293 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-27 14:35:42,608 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():795] backend started and connected
+2025-01-27 14:35:42,618 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_config_callback():1270] config_cb None None {'DROPOUT_RATE': 0.269956800798061, 'LEARNING_RATE': 0.07212367572614767, 'N_DENSE_1': 64, 'N_DENSE_2': 32, 'REGULARIZATION_RATE': 0.08805241100344176}
+2025-01-27 14:35:42,655 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-27 14:35:42,656 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():888] updated telemetry
+2025-01-27 14:35:42,718 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-27 14:35:42,872 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():967] starting run threads in backend
+2025-01-27 14:35:43,013 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-27 14:35:43,013 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-27 14:35:43,013 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-27 14:35:43,013 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-27 14:35:43,014 INFO    Thread-32 (_run_job):72293 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-27 14:41:11,923 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_finish():2134] finishing run amanjn2003-santa-clara-university/Malaria-Detection-HP-Tune/t7pi7j38
+2025-01-27 14:41:11,923 INFO    Thread-32 (_run_job):72293 [jupyter.py:save_history():458] not saving jupyter history
+2025-01-27 14:41:11,924 INFO    Thread-32 (_run_job):72293 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-27 14:41:11,924 INFO    Thread-32 (_run_job):72293 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-27 14:41:11,924 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-27 14:41:11,924 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_restore():2356] restore
+2025-01-27 14:41:11,924 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_restore():2362] restore done
+2025-01-27 14:41:15,359 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-27 14:41:15,361 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-27 14:41:15,365 INFO    Thread-32 (_run_job):72293 [wandb_run.py:_footer_sync_info():3937] logging synced files

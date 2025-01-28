@@ -1,0 +1,12 @@
+[34m[1mwandb[0m: Downloading large artifact NewDataset:v0, 1419.75MB. 27558 files...
+[34m[1mwandb[0m:   27558 of 27558 files downloaded.  
+Done. 0:0:57.6
+Traceback (most recent call last):
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_74788/3299874345.py", line 21, in dataPreprocessor
+    np.savez(file, [datasetX, datasetY])
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/numpy/lib/npyio.py", line 639, in savez
+    _savez(file, args, kwds, False)
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/numpy/lib/npyio.py", line 740, in _savez
+    val = np.asanyarray(val)
+          ^^^^^^^^^^^^^^^^^^
+ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 2 dimensions. The detected shape was (2, 27558) + inhomogeneous part.

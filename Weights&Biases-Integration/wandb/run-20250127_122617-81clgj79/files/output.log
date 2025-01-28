@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/wandb/sdk/wandb_config.py", line 165, in __getattr__
+    return self.__getitem__(key)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/wandb/sdk/wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+           ~~~~~~~~~~~^^^^^
+KeyError: 'IM_SIZE'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_69727/4263260319.py", line 4, in train
+    model = makeModel(config)
+            ^^^^^^^^^^^^^^^^^
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_69727/745929707.py", line 20, in makeModel
+    Input(shape=(config.IM_SIZE, config.IM_SIZE, 3)),
+                 ^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/wandb/sdk/wandb_config.py", line 167, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'IM_SIZE'

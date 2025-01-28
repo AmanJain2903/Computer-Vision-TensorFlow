@@ -1,0 +1,8 @@
+[34m[1mwandb[0m: Downloading large artifact NewDataset:v0, 1419.75MB. 27558 files...
+[34m[1mwandb[0m:   27558 of 27558 files downloaded.  
+Done. 0:0:57.0
+Traceback (most recent call last):
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_74788/1284664321.py", line 13, in dataPreprocessor
+    for f in os.listdir(artifactDir):
+             ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/NewDataset:v1/'

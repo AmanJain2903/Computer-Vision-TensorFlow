@@ -1,0 +1,177 @@
+_wandb:
+    value:
+        cli_version: 0.19.4
+        m:
+            - "1": epoch/binary_accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "1": epoch/val_false_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_false_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_precision
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/true_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_binary_accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/recall
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_true_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/auc
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/precision
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/learning_rate
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/true_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_true_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/false_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/false_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_recall
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_auc
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+        python_version: 3.11.11
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "3":
+                - 2
+                - 7
+                - 13
+                - 14
+                - 16
+                - 23
+                - 38
+                - 39
+                - 55
+            "4": 3.11.11
+            "5": 0.19.4
+            "8":
+                - 1
+                - 5
+            "12": 0.19.4
+            "13": darwin-arm64
+BATCH_SIZE:
+    value: 128
+DROPOUT_RATE:
+    value: 0.2904818451464386
+IM_SIZE:
+    value: 224
+KERNEL_SIZE:
+    value: 3
+LEARNING_RATE:
+    value: 0.05858092491710154
+N_DENSE_1:
+    value: 64
+N_DENSE_2:
+    value: 32
+N_EPOCHS:
+    value: 10
+N_FILTERS:
+    value: 6
+N_STRIDES:
+    value: 1
+POOL_SIZE:
+    value: 2
+REGULARIZATION_RATE:
+    value: 0.005097812613272245

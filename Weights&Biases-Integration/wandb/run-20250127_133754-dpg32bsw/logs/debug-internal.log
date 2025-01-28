@@ -1,0 +1,11 @@
+{"time":"2025-01-27T13:37:54.623781-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_133754-dpg32bsw/logs/debug-core.log"}
+{"time":"2025-01-27T13:37:54.735947-08:00","level":"INFO","msg":"created new stream","id":"dpg32bsw"}
+{"time":"2025-01-27T13:37:54.735996-08:00","level":"INFO","msg":"stream: started","id":"dpg32bsw"}
+{"time":"2025-01-27T13:37:54.736014-08:00","level":"INFO","msg":"sender: started","stream_id":"dpg32bsw"}
+{"time":"2025-01-27T13:37:54.736014-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"dpg32bsw"}
+{"time":"2025-01-27T13:37:54.736031-08:00","level":"INFO","msg":"handler: started","stream_id":"dpg32bsw"}
+{"time":"2025-01-27T13:37:54.920711-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T13:42:51.924379-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T13:42:53.185419-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T13:42:53.185743-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T13:42:53.788847-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

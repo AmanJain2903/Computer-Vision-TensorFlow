@@ -1,0 +1,16 @@
+{"time":"2025-01-27T14:41:18.35609-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_144118-s8jc260c/logs/debug-core.log"}
+{"time":"2025-01-27T14:41:18.473461-08:00","level":"INFO","msg":"created new stream","id":"s8jc260c"}
+{"time":"2025-01-27T14:41:18.473491-08:00","level":"INFO","msg":"stream: started","id":"s8jc260c"}
+{"time":"2025-01-27T14:41:18.473492-08:00","level":"INFO","msg":"handler: started","stream_id":"s8jc260c"}
+{"time":"2025-01-27T14:41:18.473513-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"s8jc260c"}
+{"time":"2025-01-27T14:41:18.473515-08:00","level":"INFO","msg":"sender: started","stream_id":"s8jc260c"}
+{"time":"2025-01-27T14:41:18.636113-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T14:46:38.725022-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T14:46:38.7265-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T14:46:39.730295-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_s8jc260c_model","runtime_seconds":1.021782042,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.538740541,"progress":"3.3MB/3.3MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T14:46:40.741456-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T14:46:41.994656-08:00","level":"INFO","msg":"stream: closing","id":"s8jc260c"}
+{"time":"2025-01-27T14:46:41.994775-08:00","level":"INFO","msg":"handler: closed","stream_id":"s8jc260c"}
+{"time":"2025-01-27T14:46:41.994796-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s8jc260c"}
+{"time":"2025-01-27T14:46:41.994831-08:00","level":"INFO","msg":"sender: closed","stream_id":"s8jc260c"}
+{"time":"2025-01-27T14:46:41.995166-08:00","level":"INFO","msg":"stream: closed","id":"s8jc260c"}

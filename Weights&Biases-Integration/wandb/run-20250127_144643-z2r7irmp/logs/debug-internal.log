@@ -1,0 +1,16 @@
+{"time":"2025-01-27T14:46:44.108272-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_144643-z2r7irmp/logs/debug-core.log"}
+{"time":"2025-01-27T14:46:44.226776-08:00","level":"INFO","msg":"created new stream","id":"z2r7irmp"}
+{"time":"2025-01-27T14:46:44.22681-08:00","level":"INFO","msg":"stream: started","id":"z2r7irmp"}
+{"time":"2025-01-27T14:46:44.226823-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"z2r7irmp"}
+{"time":"2025-01-27T14:46:44.226846-08:00","level":"INFO","msg":"sender: started","stream_id":"z2r7irmp"}
+{"time":"2025-01-27T14:46:44.226824-08:00","level":"INFO","msg":"handler: started","stream_id":"z2r7irmp"}
+{"time":"2025-01-27T14:46:44.416418-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T14:52:06.482894-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T14:52:06.483416-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T14:52:07.498925-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_z2r7irmp_model","runtime_seconds":1.034585583,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.513512458,"progress":"5.7MB/6.5MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T14:52:08.527221-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T14:52:09.903748-08:00","level":"INFO","msg":"stream: closing","id":"z2r7irmp"}
+{"time":"2025-01-27T14:52:09.903868-08:00","level":"INFO","msg":"handler: closed","stream_id":"z2r7irmp"}
+{"time":"2025-01-27T14:52:09.903894-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"z2r7irmp"}
+{"time":"2025-01-27T14:52:09.903931-08:00","level":"INFO","msg":"sender: closed","stream_id":"z2r7irmp"}
+{"time":"2025-01-27T14:52:09.904253-08:00","level":"INFO","msg":"stream: closed","id":"z2r7irmp"}

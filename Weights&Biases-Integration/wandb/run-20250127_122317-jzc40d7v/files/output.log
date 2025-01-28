@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_69555/1665427329.py", line 3, in train
+    config = wandb.config()
+             ^^^^^^^^^^^^^^
+TypeError: 'Config' object is not callable

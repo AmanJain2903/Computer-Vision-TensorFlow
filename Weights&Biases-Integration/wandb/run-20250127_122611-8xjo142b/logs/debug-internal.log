@@ -1,0 +1,16 @@
+{"time":"2025-01-27T12:26:11.979167-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_122611-8xjo142b/logs/debug-core.log"}
+{"time":"2025-01-27T12:26:12.084719-08:00","level":"INFO","msg":"created new stream","id":"8xjo142b"}
+{"time":"2025-01-27T12:26:12.084769-08:00","level":"INFO","msg":"stream: started","id":"8xjo142b"}
+{"time":"2025-01-27T12:26:12.084785-08:00","level":"INFO","msg":"sender: started","stream_id":"8xjo142b"}
+{"time":"2025-01-27T12:26:12.084786-08:00","level":"INFO","msg":"handler: started","stream_id":"8xjo142b"}
+{"time":"2025-01-27T12:26:12.084817-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"8xjo142b"}
+{"time":"2025-01-27T12:26:12.235019-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:26:12.326301-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T12:26:12.326678-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T12:26:12.975455-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T12:26:13.131729-08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-01-27T12:26:14.13591-08:00","level":"INFO","msg":"stream: closing","id":"8xjo142b"}
+{"time":"2025-01-27T12:26:14.135937-08:00","level":"INFO","msg":"handler: closed","stream_id":"8xjo142b"}
+{"time":"2025-01-27T12:26:14.135949-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8xjo142b"}
+{"time":"2025-01-27T12:26:14.135964-08:00","level":"INFO","msg":"sender: closed","stream_id":"8xjo142b"}
+{"time":"2025-01-27T12:26:14.136067-08:00","level":"INFO","msg":"stream: closed","id":"8xjo142b"}

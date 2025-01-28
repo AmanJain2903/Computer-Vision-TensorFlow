@@ -1,0 +1,17 @@
+{"time":"2025-01-27T16:14:21.568253-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_161421-xiewx2ej/logs/debug-core.log"}
+{"time":"2025-01-27T16:14:21.678555-08:00","level":"INFO","msg":"created new stream","id":"xiewx2ej"}
+{"time":"2025-01-27T16:14:21.678587-08:00","level":"INFO","msg":"stream: started","id":"xiewx2ej"}
+{"time":"2025-01-27T16:14:21.678625-08:00","level":"INFO","msg":"handler: started","stream_id":"xiewx2ej"}
+{"time":"2025-01-27T16:14:21.679009-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xiewx2ej"}
+{"time":"2025-01-27T16:14:21.679034-08:00","level":"INFO","msg":"sender: started","stream_id":"xiewx2ej"}
+{"time":"2025-01-27T16:14:21.860466-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T16:14:23.250112-08:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-01-27T16:15:27.931003-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T16:15:27.931485-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T16:15:28.937626-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact PreprocessedDataset","runtime_seconds":1.008159875,"subtasks":[{"desc":"PreprocessedDataset.npz","runtime_seconds":0.632020917,"progress":"3.6MB/574.2MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T16:15:59.537798-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T16:16:00.713775-08:00","level":"INFO","msg":"stream: closing","id":"xiewx2ej"}
+{"time":"2025-01-27T16:16:00.713812-08:00","level":"INFO","msg":"handler: closed","stream_id":"xiewx2ej"}
+{"time":"2025-01-27T16:16:00.713827-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xiewx2ej"}
+{"time":"2025-01-27T16:16:00.713837-08:00","level":"INFO","msg":"sender: closed","stream_id":"xiewx2ej"}
+{"time":"2025-01-27T16:16:00.713965-08:00","level":"INFO","msg":"stream: closed","id":"xiewx2ej"}

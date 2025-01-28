@@ -1,0 +1,16 @@
+{"time":"2025-01-27T13:14:56.439613-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_131456-l2y213pi/logs/debug-core.log"}
+{"time":"2025-01-27T13:14:56.546674-08:00","level":"INFO","msg":"created new stream","id":"l2y213pi"}
+{"time":"2025-01-27T13:14:56.546708-08:00","level":"INFO","msg":"stream: started","id":"l2y213pi"}
+{"time":"2025-01-27T13:14:56.546723-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"l2y213pi"}
+{"time":"2025-01-27T13:14:56.546722-08:00","level":"INFO","msg":"handler: started","stream_id":"l2y213pi"}
+{"time":"2025-01-27T13:14:56.54674-08:00","level":"INFO","msg":"sender: started","stream_id":"l2y213pi"}
+{"time":"2025-01-27T13:14:56.744976-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T13:15:54.407667-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T13:15:54.408221-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T13:15:55.414823-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_l2y213pi_model","runtime_seconds":1.022209041,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.558338917,"progress":"5.9MB/25.9MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T13:15:57.357289-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T13:15:58.51129-08:00","level":"INFO","msg":"stream: closing","id":"l2y213pi"}
+{"time":"2025-01-27T13:15:58.511353-08:00","level":"INFO","msg":"handler: closed","stream_id":"l2y213pi"}
+{"time":"2025-01-27T13:15:58.5114-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"l2y213pi"}
+{"time":"2025-01-27T13:15:58.511419-08:00","level":"INFO","msg":"sender: closed","stream_id":"l2y213pi"}
+{"time":"2025-01-27T13:15:58.512127-08:00","level":"INFO","msg":"stream: closed","id":"l2y213pi"}

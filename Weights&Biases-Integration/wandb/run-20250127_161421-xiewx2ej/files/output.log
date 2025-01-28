@@ -1,0 +1,8 @@
+[34m[1mwandb[0m: Downloading large artifact NewDataset:v0, 1419.75MB. 27558 files...
+[34m[1mwandb[0m:   27558 of 27558 files downloaded.  
+Done. 0:1:1.3
+2025-01-27 16:15:24.613062: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Pro
+2025-01-27 16:15:24.613083: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 18.00 GB
+2025-01-27 16:15:24.613085: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 6.00 GB
+2025-01-27 16:15:24.613305: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-01-27 16:15:24.613319: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)

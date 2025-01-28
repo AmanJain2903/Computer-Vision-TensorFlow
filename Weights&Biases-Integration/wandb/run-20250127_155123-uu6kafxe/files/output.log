@@ -1,0 +1,10 @@
+[34m[1mwandb[0m: Downloading large artifact NewDataset:v0, 1419.75MB. 27558 files...
+[34m[1mwandb[0m:   27558 of 27558 files downloaded.  
+Done. 0:0:57.3
+Traceback (most recent call last):
+  File "/var/folders/8v/j561wc497p1672n3xvshbbd00000gn/T/ipykernel_74788/2750045886.py", line 16, in dataPreprocessor
+    x, y = npzArray.f.arr_0
+           ^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/lib/python3.11/site-packages/numpy/lib/npyio.py", line 80, in __getattribute__
+    raise AttributeError(key) from None
+AttributeError: arr_0

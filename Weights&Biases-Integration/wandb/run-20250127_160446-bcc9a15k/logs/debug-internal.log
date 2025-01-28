@@ -1,0 +1,8 @@
+{"time":"2025-01-27T16:04:46.209869-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_160446-bcc9a15k/logs/debug-core.log"}
+{"time":"2025-01-27T16:04:46.325284-08:00","level":"INFO","msg":"created new stream","id":"bcc9a15k"}
+{"time":"2025-01-27T16:04:46.325354-08:00","level":"INFO","msg":"stream: started","id":"bcc9a15k"}
+{"time":"2025-01-27T16:04:46.325376-08:00","level":"INFO","msg":"sender: started","stream_id":"bcc9a15k"}
+{"time":"2025-01-27T16:04:46.325382-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"bcc9a15k"}
+{"time":"2025-01-27T16:04:46.32543-08:00","level":"INFO","msg":"handler: started","stream_id":"bcc9a15k"}
+{"time":"2025-01-27T16:04:46.611807-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T16:04:48.039276-08:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}

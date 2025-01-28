@@ -1,0 +1,7 @@
+{"time":"2025-01-27T15:09:47.851174-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_150947-dgcsfj3x/logs/debug-core.log"}
+{"time":"2025-01-27T15:09:47.964435-08:00","level":"INFO","msg":"created new stream","id":"dgcsfj3x"}
+{"time":"2025-01-27T15:09:47.964483-08:00","level":"INFO","msg":"stream: started","id":"dgcsfj3x"}
+{"time":"2025-01-27T15:09:47.964486-08:00","level":"INFO","msg":"handler: started","stream_id":"dgcsfj3x"}
+{"time":"2025-01-27T15:09:47.964487-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"dgcsfj3x"}
+{"time":"2025-01-27T15:09:47.964507-08:00","level":"INFO","msg":"sender: started","stream_id":"dgcsfj3x"}
+{"time":"2025-01-27T15:09:48.139655-08:00","level":"INFO","msg":"Starting system monitor"}

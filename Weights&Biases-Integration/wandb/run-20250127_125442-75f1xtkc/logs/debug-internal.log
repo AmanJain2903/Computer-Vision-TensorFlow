@@ -1,0 +1,16 @@
+{"time":"2025-01-27T12:54:42.446152-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_125442-75f1xtkc/logs/debug-core.log"}
+{"time":"2025-01-27T12:54:42.56038-08:00","level":"INFO","msg":"created new stream","id":"75f1xtkc"}
+{"time":"2025-01-27T12:54:42.560412-08:00","level":"INFO","msg":"stream: started","id":"75f1xtkc"}
+{"time":"2025-01-27T12:54:42.560427-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"75f1xtkc"}
+{"time":"2025-01-27T12:54:42.560438-08:00","level":"INFO","msg":"handler: started","stream_id":"75f1xtkc"}
+{"time":"2025-01-27T12:54:42.560447-08:00","level":"INFO","msg":"sender: started","stream_id":"75f1xtkc"}
+{"time":"2025-01-27T12:54:42.738976-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T13:00:03.880694-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T13:00:03.881209-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T13:00:04.892586-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_75f1xtkc_model","runtime_seconds":1.030678542,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.617536292,"progress":"3.3MB/3.3MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T13:00:05.920605-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T13:00:07.126194-08:00","level":"INFO","msg":"stream: closing","id":"75f1xtkc"}
+{"time":"2025-01-27T13:00:07.126298-08:00","level":"INFO","msg":"handler: closed","stream_id":"75f1xtkc"}
+{"time":"2025-01-27T13:00:07.126335-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"75f1xtkc"}
+{"time":"2025-01-27T13:00:07.12637-08:00","level":"INFO","msg":"sender: closed","stream_id":"75f1xtkc"}
+{"time":"2025-01-27T13:00:07.126632-08:00","level":"INFO","msg":"stream: closed","id":"75f1xtkc"}

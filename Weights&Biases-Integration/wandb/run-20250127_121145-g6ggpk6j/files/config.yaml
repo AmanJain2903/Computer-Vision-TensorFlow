@@ -1,0 +1,214 @@
+_wandb:
+    value:
+        cli_version: 0.19.4
+        m:
+            - "1": epoch/val_binary_accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "1": epoch/val_false_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_false_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/learning_rate
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_recall
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/precision
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_precision
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/false_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/true_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_true_negatives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_auc
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/false_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/true_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/binary_accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/auc
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/val_true_positives
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch/recall
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+        python_version: 3.11.11
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "3":
+                - 2
+                - 7
+                - 13
+                - 23
+                - 38
+                - 39
+                - 55
+            "4": 3.11.11
+            "5": 0.19.4
+            "8":
+                - 1
+                - 5
+            "12": 0.19.4
+            "13": darwin-arm64
+        visualize:
+            ConfusionMatrix:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: ConfusionMatrix_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            ROC-Curve:
+                panel_config:
+                    fieldSettings:
+                        class: class
+                        x: fpr
+                        "y": tpr
+                    panelDefId: wandb/area-under-curve/v0
+                    stringSettings:
+                        title: ROC Curve
+                        x-axis-title: False positive rate
+                        y-axis-title: True positive rate
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: ROC-Curve_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2

@@ -1,0 +1,25 @@
+{"time":"2025-01-27T12:11:45.855793-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_121145-g6ggpk6j/logs/debug-core.log"}
+{"time":"2025-01-27T12:11:45.969512-08:00","level":"INFO","msg":"created new stream","id":"g6ggpk6j"}
+{"time":"2025-01-27T12:11:45.969583-08:00","level":"INFO","msg":"stream: started","id":"g6ggpk6j"}
+{"time":"2025-01-27T12:11:45.969594-08:00","level":"INFO","msg":"handler: started","stream_id":"g6ggpk6j"}
+{"time":"2025-01-27T12:11:45.9696-08:00","level":"INFO","msg":"sender: started","stream_id":"g6ggpk6j"}
+{"time":"2025-01-27T12:11:45.969601-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"g6ggpk6j"}
+{"time":"2025-01-27T12:11:46.191723-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:11:46.339073-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:11:46.344707-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:11:46.345991-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:11:46.350098-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:32:01.787571-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/amanjn2003-santa-clara-university/Malaria-Detection/g6ggpk6j/file_stream\": read tcp 10.0.0.218:58104->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-27T12:39:04.728665-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:39:04.793453-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:39:04.806427-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:39:04.837771-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:39:04.840379-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T12:39:04.843736-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T12:39:05.845011-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_g6ggpk6j_model","runtime_seconds":2.892444709,"subtasks":[{"desc":"Model.keras","runtime_seconds":2.394352458,"progress":"39.2MB/417.8MB"}]},{"desc":"uploading artifact run-g6ggpk6j-ConfusionMatrix_table","runtime_seconds":1.182797834},{"desc":"uploading artifact run-g6ggpk6j-ROCCurve_table","runtime_seconds":1.136452125}],"total_operations":3}}
+{"time":"2025-01-27T12:39:26.632502-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T12:39:27.772209-08:00","level":"INFO","msg":"stream: closing","id":"g6ggpk6j"}
+{"time":"2025-01-27T12:39:27.77223-08:00","level":"INFO","msg":"handler: closed","stream_id":"g6ggpk6j"}
+{"time":"2025-01-27T12:39:27.772259-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"g6ggpk6j"}
+{"time":"2025-01-27T12:39:27.772539-08:00","level":"INFO","msg":"sender: closed","stream_id":"g6ggpk6j"}
+{"time":"2025-01-27T12:39:27.772559-08:00","level":"INFO","msg":"stream: closed","id":"g6ggpk6j"}

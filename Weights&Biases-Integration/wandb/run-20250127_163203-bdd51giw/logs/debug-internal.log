@@ -1,0 +1,17 @@
+{"time":"2025-01-27T16:32:03.710474-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_163203-bdd51giw/logs/debug-core.log"}
+{"time":"2025-01-27T16:32:03.834368-08:00","level":"INFO","msg":"created new stream","id":"bdd51giw"}
+{"time":"2025-01-27T16:32:03.834405-08:00","level":"INFO","msg":"stream: started","id":"bdd51giw"}
+{"time":"2025-01-27T16:32:03.83442-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"bdd51giw"}
+{"time":"2025-01-27T16:32:03.834412-08:00","level":"INFO","msg":"handler: started","stream_id":"bdd51giw"}
+{"time":"2025-01-27T16:32:03.834436-08:00","level":"INFO","msg":"sender: started","stream_id":"bdd51giw"}
+{"time":"2025-01-27T16:32:04.05014-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T16:32:04.957357-08:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-01-27T16:32:13.521106-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T16:32:13.522723-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T16:32:14.083187-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T16:32:14.252044-08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-01-27T16:32:15.261153-08:00","level":"INFO","msg":"stream: closing","id":"bdd51giw"}
+{"time":"2025-01-27T16:32:15.261183-08:00","level":"INFO","msg":"handler: closed","stream_id":"bdd51giw"}
+{"time":"2025-01-27T16:32:15.261202-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bdd51giw"}
+{"time":"2025-01-27T16:32:15.261279-08:00","level":"INFO","msg":"sender: closed","stream_id":"bdd51giw"}
+{"time":"2025-01-27T16:32:15.261318-08:00","level":"INFO","msg":"stream: closed","id":"bdd51giw"}

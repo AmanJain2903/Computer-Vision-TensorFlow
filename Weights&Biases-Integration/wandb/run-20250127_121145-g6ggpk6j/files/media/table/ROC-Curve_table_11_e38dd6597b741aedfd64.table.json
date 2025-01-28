@@ -1,0 +1,1 @@
+{"columns": ["class", "fpr", "tpr"], "data": [["Parasitized", 0.0, 0.0], ["Parasitized", 0.062, 0.938], ["Parasitized", 1.0, 1.0], ["Uninfected", 0.0, 0.0], ["Uninfected", 0.062, 0.938], ["Uninfected", 1.0, 1.0]]}

@@ -1,0 +1,33 @@
+{"time":"2025-01-27T12:28:23.063882-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_122822-ond6tike/logs/debug-core.log"}
+{"time":"2025-01-27T12:28:23.172215-08:00","level":"INFO","msg":"created new stream","id":"ond6tike"}
+{"time":"2025-01-27T12:28:23.172253-08:00","level":"INFO","msg":"stream: started","id":"ond6tike"}
+{"time":"2025-01-27T12:28:23.172268-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"ond6tike"}
+{"time":"2025-01-27T12:28:23.172278-08:00","level":"INFO","msg":"sender: started","stream_id":"ond6tike"}
+{"time":"2025-01-27T12:28:23.172277-08:00","level":"INFO","msg":"handler: started","stream_id":"ond6tike"}
+{"time":"2025-01-27T12:28:23.30739-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:29:39.4104-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:41.925134-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:41.929444-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:42.466991-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:42.477611-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:42.619101-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:42.621349-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:42.764611-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:42.768116-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:43.022948-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:43.0303-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:43.162221-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:43.166266-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:43.386509-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:43.388553-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:44.172596-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:44.176273-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:44.387948-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:44.390161-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:44.616618-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:44.619491-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:44.721992-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:29:44.723674-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:29:45.55918-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T12:29:45.559817-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T12:29:46.13323-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

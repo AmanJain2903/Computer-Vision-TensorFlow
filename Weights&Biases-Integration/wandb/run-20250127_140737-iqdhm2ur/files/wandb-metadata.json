@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-15.2-arm64-arm-64bit",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-01-27T22:07:37.354007Z",
+  "program":  "/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/Hyperparameter-Tuning_WandB.ipynb",
+  "codePath":  "Weights&Biases-Integration/Hyperparameter-Tuning_WandB.ipynb",
+  "git":  {
+    "remote":  "https://github.com/AmanJain2903/Computer-Vision-TensorFlow.git",
+    "commit":  "93cda4ea4bf091892dac0911af03015776ef889d"
+  },
+  "email":  "amanjn2003@gmail.com",
+  "root":  "/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration",
+  "host":  "Amans-MacBook-Pro.local",
+  "executable":  "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/bin/python",
+  "codePathLocal":  "Hyperparameter-Tuning_WandB.ipynb",
+  "cpu_count":  12,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "690256089088"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "994662584320",
+      "used":  "690256089088"
+    }
+  },
+  "memory":  {
+    "total":  "19327352832"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  12
+  },
+  "apple":  {
+    "name":  "Apple M3 Pro",
+    "ecpuCores":  6,
+    "pcpuCores":  6,
+    "gpuCores":  18,
+    "memoryGb":  18,
+    "swapTotalBytes":  "20401094656",
+    "ramTotalBytes":  "19327352832"
+  }
+}

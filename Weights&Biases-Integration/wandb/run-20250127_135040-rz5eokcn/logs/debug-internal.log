@@ -1,0 +1,16 @@
+{"time":"2025-01-27T13:50:41.181903-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_135040-rz5eokcn/logs/debug-core.log"}
+{"time":"2025-01-27T13:50:41.294674-08:00","level":"INFO","msg":"created new stream","id":"rz5eokcn"}
+{"time":"2025-01-27T13:50:41.294782-08:00","level":"INFO","msg":"stream: started","id":"rz5eokcn"}
+{"time":"2025-01-27T13:50:41.296374-08:00","level":"INFO","msg":"sender: started","stream_id":"rz5eokcn"}
+{"time":"2025-01-27T13:50:41.295972-08:00","level":"INFO","msg":"handler: started","stream_id":"rz5eokcn"}
+{"time":"2025-01-27T13:50:41.297513-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"rz5eokcn"}
+{"time":"2025-01-27T13:50:41.488821-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T13:55:57.384599-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T13:55:57.385084-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T13:55:58.396726-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_rz5eokcn_model","runtime_seconds":1.031453708,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.542994542,"progress":"2.9MB/3.3MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T13:55:59.772539-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T13:56:00.962585-08:00","level":"INFO","msg":"stream: closing","id":"rz5eokcn"}
+{"time":"2025-01-27T13:56:00.962702-08:00","level":"INFO","msg":"handler: closed","stream_id":"rz5eokcn"}
+{"time":"2025-01-27T13:56:00.96276-08:00","level":"INFO","msg":"sender: closed","stream_id":"rz5eokcn"}
+{"time":"2025-01-27T13:56:00.962745-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rz5eokcn"}
+{"time":"2025-01-27T13:56:00.963045-08:00","level":"INFO","msg":"stream: closed","id":"rz5eokcn"}

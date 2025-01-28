@@ -1,0 +1,16 @@
+{"time":"2025-01-27T14:24:10.090304-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_142409-z7l64xpe/logs/debug-core.log"}
+{"time":"2025-01-27T14:24:10.199342-08:00","level":"INFO","msg":"created new stream","id":"z7l64xpe"}
+{"time":"2025-01-27T14:24:10.19939-08:00","level":"INFO","msg":"stream: started","id":"z7l64xpe"}
+{"time":"2025-01-27T14:24:10.199394-08:00","level":"INFO","msg":"handler: started","stream_id":"z7l64xpe"}
+{"time":"2025-01-27T14:24:10.19941-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"z7l64xpe"}
+{"time":"2025-01-27T14:24:10.19941-08:00","level":"INFO","msg":"sender: started","stream_id":"z7l64xpe"}
+{"time":"2025-01-27T14:24:10.35702-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T14:29:56.656528-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T14:29:56.657627-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T14:29:57.669004-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_z7l64xpe_model","runtime_seconds":1.032884792,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.542392208,"progress":"4.2MB/25.9MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T14:29:59.768466-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T14:30:00.980312-08:00","level":"INFO","msg":"stream: closing","id":"z7l64xpe"}
+{"time":"2025-01-27T14:30:00.980462-08:00","level":"INFO","msg":"handler: closed","stream_id":"z7l64xpe"}
+{"time":"2025-01-27T14:30:00.980487-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"z7l64xpe"}
+{"time":"2025-01-27T14:30:00.980544-08:00","level":"INFO","msg":"sender: closed","stream_id":"z7l64xpe"}
+{"time":"2025-01-27T14:30:00.980897-08:00","level":"INFO","msg":"stream: closed","id":"z7l64xpe"}

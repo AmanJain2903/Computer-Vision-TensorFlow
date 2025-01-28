@@ -1,0 +1,16 @@
+{
+  "os":  "macOS-15.2-arm64-arm-64bit",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-01-27T20:23:12.023669Z",
+  "program":  "/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/Hyperparameter-Tuning_WandB.ipynb",
+  "codePath":  "Weights&Biases-Integration/Hyperparameter-Tuning_WandB.ipynb",
+  "git":  {
+    "remote":  "https://github.com/AmanJain2903/Computer-Vision-TensorFlow.git",
+    "commit":  "93cda4ea4bf091892dac0911af03015776ef889d"
+  },
+  "email":  "amanjn2003@gmail.com",
+  "root":  "/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration",
+  "host":  "Amans-MacBook-Pro.local",
+  "executable":  "/opt/homebrew/Caskroom/miniforge/base/envs/ComputerVision/bin/python",
+  "codePathLocal":  "Hyperparameter-Tuning_WandB.ipynb"
+}

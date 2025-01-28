@@ -1,0 +1,16 @@
+{"time":"2025-01-27T12:23:17.238172-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_122317-jzc40d7v/logs/debug-core.log"}
+{"time":"2025-01-27T12:23:17.347058-08:00","level":"INFO","msg":"created new stream","id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:17.347121-08:00","level":"INFO","msg":"stream: started","id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:17.34714-08:00","level":"INFO","msg":"sender: started","stream_id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:17.34714-08:00","level":"INFO","msg":"handler: started","stream_id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:17.347197-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:17.561-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:23:17.64612-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T12:23:17.646458-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T12:23:18.533221-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T12:23:18.648371-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 0-4","runtime_seconds":0.114981208}],"total_operations":1}}
+{"time":"2025-01-27T12:23:19.717513-08:00","level":"INFO","msg":"stream: closing","id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:19.717535-08:00","level":"INFO","msg":"handler: closed","stream_id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:19.717544-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:19.717567-08:00","level":"INFO","msg":"sender: closed","stream_id":"jzc40d7v"}
+{"time":"2025-01-27T12:23:19.717666-08:00","level":"INFO","msg":"stream: closed","id":"jzc40d7v"}

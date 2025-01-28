@@ -1,0 +1,16 @@
+{"time":"2025-01-27T13:20:31.032979-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_132030-8h6myosk/logs/debug-core.log"}
+{"time":"2025-01-27T13:20:31.14278-08:00","level":"INFO","msg":"created new stream","id":"8h6myosk"}
+{"time":"2025-01-27T13:20:31.142814-08:00","level":"INFO","msg":"stream: started","id":"8h6myosk"}
+{"time":"2025-01-27T13:20:31.142828-08:00","level":"INFO","msg":"sender: started","stream_id":"8h6myosk"}
+{"time":"2025-01-27T13:20:31.14283-08:00","level":"INFO","msg":"handler: started","stream_id":"8h6myosk"}
+{"time":"2025-01-27T13:20:31.142847-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"8h6myosk"}
+{"time":"2025-01-27T13:20:31.345614-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T13:26:01.369568-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T13:26:01.371288-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T13:26:02.376747-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_8h6myosk_model","runtime_seconds":1.029697542,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.513276333,"progress":"3.3MB/3.3MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T13:26:03.249038-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T13:26:04.674603-08:00","level":"INFO","msg":"stream: closing","id":"8h6myosk"}
+{"time":"2025-01-27T13:26:04.674638-08:00","level":"INFO","msg":"handler: closed","stream_id":"8h6myosk"}
+{"time":"2025-01-27T13:26:04.674667-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8h6myosk"}
+{"time":"2025-01-27T13:26:04.674679-08:00","level":"INFO","msg":"sender: closed","stream_id":"8h6myosk"}
+{"time":"2025-01-27T13:26:04.674767-08:00","level":"INFO","msg":"stream: closed","id":"8h6myosk"}

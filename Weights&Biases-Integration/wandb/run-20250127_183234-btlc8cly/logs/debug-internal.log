@@ -1,0 +1,16 @@
+{"time":"2025-01-27T18:32:35.207124-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_183234-btlc8cly/logs/debug-core.log"}
+{"time":"2025-01-27T18:32:35.316922-08:00","level":"INFO","msg":"created new stream","id":"btlc8cly"}
+{"time":"2025-01-27T18:32:35.31696-08:00","level":"INFO","msg":"stream: started","id":"btlc8cly"}
+{"time":"2025-01-27T18:32:35.316974-08:00","level":"INFO","msg":"handler: started","stream_id":"btlc8cly"}
+{"time":"2025-01-27T18:32:35.316979-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"btlc8cly"}
+{"time":"2025-01-27T18:32:35.316975-08:00","level":"INFO","msg":"sender: started","stream_id":"btlc8cly"}
+{"time":"2025-01-27T18:32:35.71612-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T18:32:36.408857-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T18:32:36.409258-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T18:32:37.41555-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact UntrainedModel","runtime_seconds":1.007845125,"subtasks":[{"desc":"LeNet.keras","runtime_seconds":0.602990833,"progress":"4.1MB/139.3MB"}]},{"desc":"uploading Models/LeNet.keras","runtime_seconds":1.003563708,"progress":"9.6MB/139.3MB"}],"total_operations":2}}
+{"time":"2025-01-27T18:33:08.381152-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T18:33:09.540934-08:00","level":"INFO","msg":"stream: closing","id":"btlc8cly"}
+{"time":"2025-01-27T18:33:09.540969-08:00","level":"INFO","msg":"handler: closed","stream_id":"btlc8cly"}
+{"time":"2025-01-27T18:33:09.540988-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"btlc8cly"}
+{"time":"2025-01-27T18:33:09.541004-08:00","level":"INFO","msg":"sender: closed","stream_id":"btlc8cly"}
+{"time":"2025-01-27T18:33:09.541243-08:00","level":"INFO","msg":"stream: closed","id":"btlc8cly"}

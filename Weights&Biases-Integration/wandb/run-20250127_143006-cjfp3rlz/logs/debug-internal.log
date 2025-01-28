@@ -1,0 +1,16 @@
+{"time":"2025-01-27T14:30:06.548315-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Weights&Biases-Integration/wandb/run-20250127_143006-cjfp3rlz/logs/debug-core.log"}
+{"time":"2025-01-27T14:30:06.666158-08:00","level":"INFO","msg":"created new stream","id":"cjfp3rlz"}
+{"time":"2025-01-27T14:30:06.666216-08:00","level":"INFO","msg":"stream: started","id":"cjfp3rlz"}
+{"time":"2025-01-27T14:30:06.666246-08:00","level":"INFO","msg":"sender: started","stream_id":"cjfp3rlz"}
+{"time":"2025-01-27T14:30:06.666239-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"cjfp3rlz"}
+{"time":"2025-01-27T14:30:06.666225-08:00","level":"INFO","msg":"handler: started","stream_id":"cjfp3rlz"}
+{"time":"2025-01-27T14:30:06.817719-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T14:35:36.912902-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T14:35:36.913772-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T14:35:37.925177-08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_cjfp3rlz_model","runtime_seconds":1.03081725,"subtasks":[{"desc":"TunedModel.keras","runtime_seconds":0.484380125,"progress":"1.9MB/12.9MB"}]}],"total_operations":1}}
+{"time":"2025-01-27T14:35:40.353724-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T14:35:41.511723-08:00","level":"INFO","msg":"stream: closing","id":"cjfp3rlz"}
+{"time":"2025-01-27T14:35:41.511773-08:00","level":"INFO","msg":"handler: closed","stream_id":"cjfp3rlz"}
+{"time":"2025-01-27T14:35:41.511798-08:00","level":"INFO","msg":"sender: closed","stream_id":"cjfp3rlz"}
+{"time":"2025-01-27T14:35:41.511785-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cjfp3rlz"}
+{"time":"2025-01-27T14:35:41.511886-08:00","level":"INFO","msg":"stream: closed","id":"cjfp3rlz"}

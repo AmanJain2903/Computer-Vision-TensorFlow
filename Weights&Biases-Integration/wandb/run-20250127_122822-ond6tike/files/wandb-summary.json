@@ -1,0 +1,1 @@
+{"binary_accuracy":0.5125646591186523,"loss":2.235700845718384,"false_negatives":5490,"epoch":0,"precision":0.5128371715545654,"false_positives":5256,"_runtime":62.749622,"true_negatives":5767,"recall":0.5019504427909851,"true_positives":5533,"_step":0,"_timestamp":1.738009765812345e+09,"_wandb":{"runtime":76},"auc":0.5181549191474915}
