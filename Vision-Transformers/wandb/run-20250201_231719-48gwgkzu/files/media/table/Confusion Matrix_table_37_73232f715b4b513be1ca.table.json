@@ -1,0 +1,1 @@
+{"columns": ["Actual", "Predicted", "nPredictions"], "data": [["angry", "angry", 258.0], ["angry", "happy", 14.0], ["angry", "sad", 27.0], ["happy", "angry", 31.0], ["happy", "happy", 555.0], ["happy", "sad", 20.0], ["sad", "angry", 49.0], ["sad", "happy", 17.0], ["sad", "sad", 388.0]]}

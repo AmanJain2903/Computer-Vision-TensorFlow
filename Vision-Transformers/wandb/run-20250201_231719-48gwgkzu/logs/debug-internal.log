@@ -1,0 +1,43 @@
+{"time":"2025-02-01T23:17:19.816404-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Vision-Transformers/wandb/run-20250201_231719-48gwgkzu/logs/debug-core.log"}
+{"time":"2025-02-01T23:17:19.927346-08:00","level":"INFO","msg":"created new stream","id":"48gwgkzu"}
+{"time":"2025-02-01T23:17:19.927388-08:00","level":"INFO","msg":"stream: started","id":"48gwgkzu"}
+{"time":"2025-02-01T23:17:19.927403-08:00","level":"INFO","msg":"handler: started","stream_id":"48gwgkzu"}
+{"time":"2025-02-01T23:17:19.927529-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"48gwgkzu"}
+{"time":"2025-02-01T23:17:19.927626-08:00","level":"INFO","msg":"sender: started","stream_id":"48gwgkzu"}
+{"time":"2025-02-01T23:17:20.107827-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-01T23:17:20.195218-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:20.211554-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:20.642852-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:20.647002-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:20.651565-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:20.655103-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:23.054612-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:23.058072-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:25.184615-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:25.18763-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:25.19838-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:25.201488-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:25.20823-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:25.2116-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:25.212155-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:25.215423-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T23:17:25.215992-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T23:17:25.218873-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-02T00:02:35.574458-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/amanjn2003-santa-clara-university/Emotion-Detection/48gwgkzu/file_stream\": read tcp 10.0.0.218:56277->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-02T00:02:50.584179-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/amanjn2003-santa-clara-university/Emotion-Detection/48gwgkzu/file_stream\": read tcp 10.0.0.218:56279->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-02T00:02:52.881969-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/amanjn2003-santa-clara-university/Emotion-Detection/48gwgkzu/file_stream\": read tcp 10.0.0.218:56280->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-02T01:08:31.867652-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-02T01:08:31.89924-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-02T01:09:11.924516-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-02T01:09:11.930414-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-02T01:09:11.932999-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-02T01:09:11.935511-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-02T01:09:11.944567-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-02T01:09:11.94664-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-02T01:09:12.487349-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-02T01:09:12.662686-08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-02-02T01:09:13.689858-08:00","level":"INFO","msg":"stream: closing","id":"48gwgkzu"}
+{"time":"2025-02-02T01:09:13.689911-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"48gwgkzu"}
+{"time":"2025-02-02T01:09:13.690056-08:00","level":"INFO","msg":"handler: closed","stream_id":"48gwgkzu"}
+{"time":"2025-02-02T01:09:13.69012-08:00","level":"INFO","msg":"sender: closed","stream_id":"48gwgkzu"}
+{"time":"2025-02-02T01:09:13.690134-08:00","level":"INFO","msg":"stream: closed","id":"48gwgkzu"}
