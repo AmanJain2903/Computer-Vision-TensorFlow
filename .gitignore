@@ -1,6 +1,6 @@
 Building-APIs/EmotionDetectionAPI/service/EmotionDetectionViT.onnx
-/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Object-Detection-YOLO/Dataset/pascal-voc-2012.zip
-/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Object-Detection-YOLO/Models/YoloEfficientNetUntrained.keras
-/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Object-Detection-YOLO/Models/checkpoints/YoloEfficientNet.keras
-/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Object-Detection-YOLO/TestDataset/coco-2017-dataset.zip
-/Users/aman/Documents/Work/Machine Learning/Computer-Vision-TensorFlow/Object-Detection-YOLO/SavedDataset/
+Object-Detection-YOLO/Dataset/pascal-voc-2012.zip
+Object-Detection-YOLO/Models/YoloEfficientNetUntrained.keras
+Object-Detection-YOLO/Models/checkpoints/YoloEfficientNet.keras
+Object-Detection-YOLO/TestDataset/coco-2017-dataset.zip
+Object-Detection-YOLO/SavedDataset/
