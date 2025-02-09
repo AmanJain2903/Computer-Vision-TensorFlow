@@ -4,3 +4,7 @@ Object-Detection-YOLO/Models/YoloEfficientNetUntrained.keras
 Object-Detection-YOLO/Models/checkpoints/YoloEfficientNet.keras
 Object-Detection-YOLO/TestDataset/coco-2017-dataset.zip
 Object-Detection-YOLO/SavedDataset/
+Virtual-Cloth-TryOn-Image-Segmentation/Dataset/
+Virtual-Cloth-TryOn-Image-Segmentation/Models/
+Virtual-Cloth-TryOn-Image-Segmentation/SavedDataset/
+Virtual-Cloth-TryOn-Image-Segmentation/ValDataset/
